@@ -1,5 +1,5 @@
 # The problem sum
-[problem_sum](#problem)
+[problem_sum](milto:https://codeforces.com/group/P9uFhztGih/contest/401786/problem/C)
 ## Hints
 single name A ,
  which A contains no more than 10 characters
